@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XamarinLista.Droid", "XamarinLista.Droid\XamarinLista.Droid.csproj", "{84AFE8DF-7F30-4455-990E-659C8D6D07AF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XamarinLayouts.Droid", "XamarinLayouts.Droid\XamarinLayouts.Droid.csproj", "{84AFE8DF-7F30-4455-990E-659C8D6D07AF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
